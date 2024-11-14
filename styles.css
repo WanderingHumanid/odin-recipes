@@ -15,7 +15,11 @@
 }
 
 #lasagnah1,#mmh1,#ricottah1 {
-    color: rgb(255, 109, 109);
+    color: rgb(233, 49, 49);
+}
+
+h2,h3,h4 {
+    color: rgb(195, 248, 127);
 }
 a {
     color: rgba(74, 172, 236, 0.788);
