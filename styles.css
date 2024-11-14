@@ -1,0 +1,22 @@
+#main {
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.89);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lasagna,#mmchicken,#ricotta {
+    color: rgba(243, 193, 135, 0.89);
+    background-color: rgba(0, 0, 0, 0.89);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainh1 {
+    color: rgba(208, 245, 245, 0.788);
+}
+
+#lasagnah1,#mmh1,#ricottah1 {
+    color: rgb(255, 109, 109);
+}
+a {
+    color: rgba(74, 172, 236, 0.788);
+}
